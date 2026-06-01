@@ -1,0 +1,17 @@
+{
+  "name": "abhi-algo-backend-v9",
+  "version": "1.0.0",
+  "description": "Advanced Binary Trading Engine with Accurate IST Tracking and Expanded Macro Filtering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "technicalindicators": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
